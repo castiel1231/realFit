@@ -533,7 +533,7 @@ textarea{font-family:'Roboto', sans-serif;}
 
 h1{ font-size:24px; line-height:34px; font-weight:500;}
 h2{ font-size:22px; line-height:32px; font-weight:500;}
-h3{ font-size:20px; line-height:10px; font-weight:500;}
+h3{ font-size:5px; line-height:8px; font-weight:300;}
 h4{ font-size:18px; line-height:28px; font-weight:500;}
 h5{ font-size:16px; line-height:26px; font-weight:500;}
 h6{ font-size:14px; line-height:30px; font-weight:800;}
@@ -6805,7 +6805,7 @@ calendar*{display:block; overflow:hidden;}
     font-size:14px;
     padding-left:100px;
     line-height:14px;
-    padding-top:13px;
+    padding-top:4px;
     padding-bottom:3px;
     color:#1f1f1f;
 }
